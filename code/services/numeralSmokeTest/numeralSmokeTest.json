@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,numeral",
+    "logging_enabled": "false",
+    "name": "numeralSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "numeralSmokeTest.js"
+}
